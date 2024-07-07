@@ -1,0 +1,59 @@
+{
+        "courses": [
+                {
+                        "id": 1,
+                        "title": "Guitar-fundations",
+                        "slug": "guitar-fundations",
+                        "description": "Forms enable you to create and update data in web applications. Next.js provides a powerful way to handle form submissions and data mutations using API Route",
+                         "price":99.99,
+                         "Instructor": "Johan Doe",
+                         "isFeatured":true,
+                         "image":"/course/p.png"  
+                         
+                },
+                {
+                        "id": 2,
+                        "title": "Guitar-fundations",
+                        "slug": "",
+                        "description":"Forms enable you to create and update data in web applications. Next.js provides a powerful way to handle form submissions and data mutations using API Route",
+                         "price":99.99,
+                         "Instructor": "Johan Doe",
+                         "isFeatured":true,
+                         "image":"/course/p.png"  
+                         
+                },
+                {
+                        "id": 3,
+                        "title": "Guitar-fundations",
+                        "slug": "guitar-fundations",
+                        "description": "Forms enable you to create and update data in web applications. Next.js provides a powerful way to handle form submissions and data mutations using API Route",
+                         "price":99.99,
+                         "Instructor": "Johan Doe",
+                         "isFeatured":true,
+                         "image":"/course/p.png"  
+                         
+                },
+                {
+                        "id": 4,
+                        "title": "Guitar-fundations",
+                        "slug": "guitar-fundations",
+                        "description": "Forms enable you to create and update data in web applications. Next.js provides a powerful way to handle form submissions and data mutations using API Route",
+                         "price":99.99,
+                         "Instructor": "Johan Doe",
+                         "isFeatured":true,
+                         "image":"/course/p.png"  
+                         
+                },
+                {
+                        "id": 5,
+                        "title": "Guitar-fundations",
+                        "slug": "guitar-fundations",
+                        "description": "Forms enable you to create and update data in web applications. Next.js provides a powerful way to handle form submissions and data mutations using API Route",
+                         "price":99.99,
+                         "Instructor": "Johan Doe",
+                         "isFeatured":true,
+                         "image":"/course/p.png"  
+                         
+                }
+        ]
+}
